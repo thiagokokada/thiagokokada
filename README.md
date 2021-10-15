@@ -8,6 +8,7 @@
 ![Dart](https://img.shields.io/badge/DART-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?style=for-the-badge&logo=Java&logoColor=white)
 ![Ruby](https://img.shields.io/badge/RUBY-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=black)
 
 #### Cloud & DevOps
