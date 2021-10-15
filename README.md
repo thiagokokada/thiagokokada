@@ -14,6 +14,7 @@
 #### Cloud & DevOps
 
 ![Amazon-AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DIGITALOCEAN-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 
 ![Grafana](https://img.shields.io/badge/-GRAFANA-black?&style=for-the-badge&logo=grafana&logoColor=yellow)
 ![Prometheus](https://img.shields.io/badge/PROMETHEUS-E6522C.svg?&style=for-the-badge&logo=Prometheus&logoColor=white) 
@@ -22,6 +23,7 @@
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Splunk](https://img.shields.io/badge/SPLUNK-111C29.svg?style=for-the-badge&logo=Splunk&logoColor=white)
 ![Looker](https://img.shields.io/badge/LOOKER-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white)
+![OpsGenie](https://img.shields.io/badge/OPSGENIE-172B4D.svg?style=for-the-badge&logo=OpsGenie&logoColor=white)
 
 #### Unix
 
