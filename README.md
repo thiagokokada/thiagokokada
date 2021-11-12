@@ -1,4 +1,4 @@
-![Thiago Kenji Okada Github Stats](https://github-readme-stats.vercel.app/api?username=thiagokokada&show_icons=true)
+![Thiago Kenji Okada's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagokokada&show_icons=true&theme=dark&include_all_commits=true)
 
 #### Languages
 
