@@ -2,13 +2,16 @@
 
 #### Languages
 
-![Clojure](https://img.shields.io/badge/CLOJURE-5881D8.svg?style=for-the-badge&logo=Clojure&logoColor=white)
+![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
 ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![Dart](https://img.shields.io/badge/DART-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-007396.svg?style=for-the-badge&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![Ruby](https://img.shields.io/badge/RUBY-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=black)
 
 #### Cloud & DevOps
@@ -17,6 +20,7 @@
 ![DigitalOcean](https://img.shields.io/badge/DIGITALOCEAN-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 
 ![Grafana](https://img.shields.io/badge/-GRAFANA-black?&style=for-the-badge&logo=grafana&logoColor=yellow)
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/PROMETHEUS-E6522C.svg?&style=for-the-badge&logo=Prometheus&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/TERRAFORM-623CE4.svg?style=for-the-badge&logo=Terraform&logoColor=white)
@@ -36,6 +40,7 @@
 
 ![Datomic](https://img.shields.io/badge/DATOMIC-67CD88.svg?style=for-the-badge&logo=Datomic&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
 
