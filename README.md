@@ -1,5 +1,6 @@
 ![Thiago Kenji Okada's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagokokada&show_icons=true&theme=dark&include_all_commits=true)
 
+<!--https://github.com/Ileriayo/markdown-badges-->
 #### Languages
 
 ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
