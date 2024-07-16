@@ -1,4 +1,4 @@
-![Thiago Kenji Okada's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagokokada&show_icons=true&theme=dark&include_all_commits=true)
+![Thiago Kenji Okada's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagokokada&show=reviews&show_icons=true&theme=transparent&hide_border=true)
 
 <!--https://github.com/Ileriayo/markdown-badges-->
 #### Languages
