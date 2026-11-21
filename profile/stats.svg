@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Thiago Kenji Okada&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 1586, Total Commits  (last year) : 2842, Total PRs: 1355, Total PRs Reviewed: 886, Total Issues: 202, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 1587, Total Commits  (last year) : 2842, Total PRs: 1355, Total PRs Reviewed: 886, Total Issues: 202, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 3.6187920292776163;
+        stroke-dashoffset: 3.6172279576766138;
       }
     }
   
